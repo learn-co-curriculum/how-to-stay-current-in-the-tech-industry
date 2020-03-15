@@ -1,4 +1,4 @@
-# Staying Current in the Tech Industry
+# **Staying Current in the Tech Industry**
 
 The technology industry is always changing. When you remain up-to-date, you stay competitive as a jobseeker and ultimately as an employee. Beyond that, when you’re aware of what’s happening in the industry, you establish yourself as a passionate professional and have even more content to reference in interviews and when you meet people in the community (at events, meetups etc.).
 
@@ -7,7 +7,7 @@ When you’re current on events and news, you become familiar with more aspects 
 When you’re in between prepping for interviews and doing technical challenges, consuming content made by people in the tech community is a very productive way to spend your time while also taking a “break” from job search-related work. 
 Below are three ways you can stay current: listening to podcasts, reading blogs, and subscribing to newsletters.
 
-## Podcasts
+## **Podcasts**
 Podcasts are great for several reasons. For one, they allow you to listen on the go. So while you’re exercising, folding laundry, or commuting to work you can learn something new. They also give you the chance to listen to experienced techies talk about cybersecurity. (Which is a lot different from reading about cybersecurity.) When you listen to conversations about technology, you’ll pick up on new terms but also gain a better understanding of words you’re already familiar with. Hearing these conversations will provide more context. 
 
 And because podcasts are usually interview-based, they allow you to take a peek into people’s lives. Learn about their career trajectories, side projects, challenges they’ve overcome, and the stuff they’re interested in learning more about. As a new professional in your field, you want to mirror these people and the way they talk. 
@@ -25,7 +25,7 @@ And because podcasts are usually interview-based, they allow you to take a peek 
 - [We Live Security](https://www.welivesecurity.com/) 
 
 
-## Blogs
+## **Blogs**
 Unlike podcasts where you can listen on the go, reading articles requires your full attention. Blogs, however, are great because they can be more technical by showing things like code samples. (Unlike audio-based podcasts, where you can only get so detailed.) 
 
 **Suggested blogs to read:** 
@@ -36,11 +36,11 @@ Unlike podcasts where you can listen on the go, reading articles requires your f
 
 - [Schneier on Security](https://www.schneier.com/)Featuring the latest cybersecurity news, tech essays, and academic papers, Schneier on Security has attracted over 250,000 readers in its 13-year run.
 
--[Daniel Miessler](https://danielmiessler.com/) A tech blog from a renowned security expert, Daniel Miessler’s official blog stands out because of its diversified content.
+- [Daniel Miessler](https://danielmiessler.com/) A tech blog from a renowned security expert, Daniel Miessler’s official blog stands out because of its diversified content.
 
 - [Hacker News](https://thehackernews.com/)With five million monthly viewership and over 3 million social media followers, Hacker News provides daily cybersecurity and technology news, analyzed technical reports and insightful columns for every type of tech enthusiast. 
 
--[Krebs on Security](https://krebsonsecurity.com/) A notorious hacker group took over Brian Krebs’ home network while he was trying to set up a firewall in 2001.  This event led to him launching the daily blog Security Fix in 2005.
+- [Krebs on Security](https://krebsonsecurity.com/) A notorious hacker group took over Brian Krebs’ home network while he was trying to set up a firewall in 2001.  This event led to him launching the daily blog Security Fix in 2005.
 
 - [Troy Hunt](https://www.troyhunt.com/) Australia’s Troy Hunt is very passionate about educating web developers about web security.
 
@@ -52,7 +52,7 @@ Unlike podcasts where you can listen on the go, reading articles requires your f
 
 Aside from personal blogs, many professionals also publish on [Medium](medium.com), where you you can follow different topic-based publications
 
-## Email newsletters
+## **Email newsletters**
 
 When you subscribe to newsletters, the news shows up right in your inbox. There are many different newsletters for different industries. Some curate top news stories, while others share events going on in your area. 
 
@@ -67,7 +67,7 @@ Another benefit to newsletters is that they’re typically quick to digest. News
 - [Security Boulevard](https://securityboulevard.com/)
 
 
-## Stay on top of news by setting up alerts
+## **Stay on top of news by setting up alerts**
 
 If there is a certain topic, person, or company, that you’d like to keep your eye on, set up a Google Alert. Google Alerts help you monitor the web for new content by sending an email notification every time a certain word or phrase is indexed in the Google search engine. 
 
@@ -78,7 +78,7 @@ One way you can use Google Alerts is by setting one up for a company that intere
  - [Top Cybersecurity Experts to Follow on Twitter](https://whatismyipaddress.com/twitter-cybersecurity-experts)
  - [Cybersecurity Twitter Accounts You Should be Following](https://www.sentinelone.com/blog/21-cybersecurity-twitter-accounts-you-should-follow/) 
 
-## Don’t just consume - contribute, too  
+## **Don’t just consume - contribute, too**  
 
 While it’s awesome to consume all this available content, you want to take your efforts beyond that, and contribute to the conversation. 
 
@@ -88,7 +88,7 @@ More than just telling the person you enjoyed their podcast/article, you can cre
 
 Ultimately, your goal should be to get interviewed on a podcast, or guest write for a blog. Putting yourself out there in such a way will give yourself more exposure. It can also lead to more connections with like-minded people. And it positions you as an expert on the topic at hand. 
 
-## Conclusion
+## **Conclusion**
 
 When you’re working in a high growth and competitive industry, you need to stay relevant. Your career depends on it. Beyond listening to podcasts, reading blogs, and subscribing to newsletters, your goal is to contribute to the conversation. To do this, you must put yourself out there by reaching out to others and contributing to the dialogue.
 
