@@ -2,39 +2,55 @@
 
 The technology industry is always changing. When you remain up-to-date, you stay competitive as a jobseeker and ultimately as an employee. Beyond that, when you’re aware of what’s happening in the industry, you establish yourself as a passionate professional and have even more content to reference in interviews and when you meet people in the community (at events, meetups etc.).
 
-When you’re current on events and news, you become familiar with more aspects of your industry as a whole—not just your specific vocation. When you have a fuller understanding of all the components, you can connect and relate to a variety of people, like designers, product managers, founders, and more. This further supports the notion that you’re a passionate professional.
+When you’re current on events and news, you become familiar with more aspects of your industry as a whole—not just your specific vocation. When you have a fuller understanding of all the components, you can connect and relate to a variety of people, like analysts, engineers, product managers, founders, and more. This further supports the notion that you’re a passionate professional.
 
 When you’re in between prepping for interviews and doing technical challenges, consuming content made by people in the tech community is a very productive way to spend your time while also taking a “break” from job search-related work. 
 Below are three ways you can stay current: listening to podcasts, reading blogs, and subscribing to newsletters.
 
 ## Podcasts
-Podcasts are great for several reasons. For one, they allow you to listen on the go. So while you’re exercising, folding laundry, or commuting to work you can learn something new. They also give you the chance to listen to experienced techies talk about code. (Which is a lot different from reading about code.) When you listen to conversations about technology, you’ll pick up on new terms but also gain a better understanding of words you’re already familiar with. Hearing these conversations will provide more context. 
+Podcasts are great for several reasons. For one, they allow you to listen on the go. So while you’re exercising, folding laundry, or commuting to work you can learn something new. They also give you the chance to listen to experienced techies talk about cybersecurity. (Which is a lot different from reading about cybersecurity.) When you listen to conversations about technology, you’ll pick up on new terms but also gain a better understanding of words you’re already familiar with. Hearing these conversations will provide more context. 
 
 And because podcasts are usually interview-based, they allow you to take a peek into people’s lives. Learn about their career trajectories, side projects, challenges they’ve overcome, and the stuff they’re interested in learning more about. As a new professional in your field, you want to mirror these people and the way they talk. 
 
-Suggested podcasts to listen to: 
-* *[JavaScript Jabber](https://devchat.tv/js-jabber/)* - A podcast about JavaScript (Node.js + Front-End Technologies) developer careers, working on a team, and more.
-* *[Ruby Rogues](https://devchat.tv/ruby-rogues/)* - A weekly panel discussion on the Ruby ecosystem as well as programming best practices, tools, and even careers.
-* *[NSScreencasts](http://nsscreencast.com/episodes)* - A video-based show with both free and paid episodes. Because it’s video screencasts, NSScreencasts is more tutorial-like. 
-* *[CodeNewbie Podcast](http://www.codenewbie.org/podcast)* - This weekly show features conversations with both newbie and seasoned developers. The show covers topics like security, hardware, mobile development, and more. 
-* *[HanselMinutes](http://hanselminutes.com/)* - Hosted by well-known developer Scott Hanselman, the show contains interviews of technologists, developers, founders, and other tech industry thought-leaders. 
-* *[O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)* - Ben Lorica is the Chief Data Scientist at O’Reilly Media. In each episode, he is joined by an industry professional to discuss topics in big data and data science. 
-* *[Data Skeptic](http://dataskeptic.com/podcast?limit=10&offset=0)* - One of the longest-running data science shows, this podcast has a little bit of everything, and it has wide appeal, whether you’re a complete beginner or already technically skilled. 
+**Suggested podcasts to listen to:**
+
+- [Krebs on Security](https://krebsonsecurity.com/) 
+
+- [Command Line - SecureSet News](https://blog.secureset.com/) 
+
+- [Cyber Security Interviews](https://cybersecurityinterviews.com/) 
+
+- [New Cyber Frontier](https://feed.podbean.com/newcyberfrontier/) 
+
+- [We Live Security](https://www.welivesecurity.com/) 
+
 
 ## Blogs
 Unlike podcasts where you can listen on the go, reading articles requires your full attention. Blogs, however, are great because they can be more technical by showing things like code samples. (Unlike audio-based podcasts, where you can only get so detailed.) 
 
-Suggested blogs to read: 
+**Suggested blogs to read:** 
 
-* *[Mislav’s Blog](http://mislav.net/blog/)* - This is software developer Mislav Marohnić’s blog where he talks about the terminal, git, software best practices, and then some. 
-* *[Tender Lovemaking](http://tenderlovemaking.com/)* - A blog that’s been in publication since 2006, Tender Lovemaking covers Ruby, software testing, debugging, and more. 
-* *[A List Apart](http://alistapart.com/)* - A List Apart has been online since 1998. Now, they’re much more than a blog (they have books, events, and more). Nonetheless, they feature some of the best material on web standards and best practices.
-* *[Joel on Software](http://www.joelonsoftware.com/)* - Joel has been blogging for 15 years (!!). He shares insights on software, business, the internet, and more.  
-* *[KD Nuggets](https://www.kdnuggets.com/)* - With over 80 awards, KDnuggets is a leading online resource for big data practitioners.
-* *[Data Science 101](https://101.datascience.community/)* - Run by Ryan Swanstrom, Data Science 101 started in 2012 and today, it is one of the leading blogs that provides resources for learning data science.
-* *[Data Science & Psychology](http://www.polipsych.com/)* - Run by a Chief Data Scientist, Ravi Iyer. With a very uncommon approach for analytics, the blog focuses on exploring societal trends, ethics, and morality through the lens of data.
+- [Digital Guardian](https://digitalguardian.com/) Starting way back in 2013, The official Digital Guardian blog has been a main source of news and articles mainly focusing on data protection and threat research.
 
-Aside from personal blogs, many professionals also publish on Medium. On Medium, you can follow different topic-based publications, like [Hackernoon](https://hackernoon.com/), [Towards Data Science](https://towardsdatascience.com/), or [Muzli Design Inspiration](https://medium.muz.li/). 
+- [Graham Cluley](https://www.grahamcluley.com/)Graham Cluley worked as a programmer in the computer security industry in the early 90s and worked for industry leaders in Sophos and McAfee before starting his industry award winning personal blog in 2009.
+
+- [Schneier on Security](https://www.schneier.com/)Featuring the latest cybersecurity news, tech essays, and academic papers, Schneier on Security has attracted over 250,000 readers in its 13-year run.
+
+-[Daniel Miessler](https://danielmiessler.com/) A tech blog from a renowned security expert, Daniel Miessler’s official blog stands out because of its diversified content.
+
+- [Hacker News](https://thehackernews.com/)With five million monthly viewership and over 3 million social media followers, Hacker News provides daily cybersecurity and technology news, analyzed technical reports and insightful columns for every type of tech enthusiast. 
+
+-[Krebs on Security](https://krebsonsecurity.com/) A notorious hacker group took over Brian Krebs’ home network while he was trying to set up a firewall in 2001.  This event led to him launching the daily blog Security Fix in 2005.
+
+- [Troy Hunt](https://www.troyhunt.com/) Australia’s Troy Hunt is very passionate about educating web developers about web security.
+
+- [SC Media](https://www.scmagazine.com/) SC Media has over 25 years of experience in covering numerous tech stories on different media platforms.
+
+- [Threatpost](https://threatpost.com/) An independent cybersecurity blog with great coverage on cybersecurity, ranging from cloud security and critical infrastructure to cryptography and web security in general.
+
+- [GlobalSign](https://www.globalsign.com/en/company/blog/articles/) A bit “cheeky” for sure, but with a 200% growth in traffic and 1570% growth in subscribers, they’re worth following.
+
+Aside from personal blogs, many professionals also publish on [Medium](medium.com), where you you can follow different topic-based publications
 
 ## Email newsletters
 
@@ -44,19 +60,23 @@ The great thing about newsletters is that you don’t even have to think about g
 
 Another benefit to newsletters is that they’re typically quick to digest. Newsletters give you a snapshot of what’s going on, and you can choose to learn more by clicking a headline or event posting.
 
-Suggested newsletters to subscribe to: 
+**Suggested newsletters to subscribe to:** 
 
-* *[Ruby Weekly](http://rubyweekly.com/)* - Curated Ruby news, also includes job postings. 
-* *[TechCrunch](http://techcrunch.com/crunch-daily/)* - Get startup and tech news from popular news site TechCrunch delivered right to inbox 
-* *[AlleyWatch](http://www.alleywatch.com/email/)* - Tech, business, and startup news from Silicon Alley (NYC). 
-* *[VentureBeat](http://venturebeat.com/newsletters/)* - Another tech news site that will send you updates. Here you can choose what you get updates on -  e.g. “Daily Dev”.  
-* *[Hacker Newsletter](http://www.hackernewsletter.com/)* - Weekly newsletter of top articles from Hacker News site. Includes code, design, career, and more.
-* *[Data Science Weekly](https://www.datascienceweekly.org/)* - A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
+- [Top Tech Newsletters](https://www.thebalancecareers.com/top-tech-newsletters-you-should-subscribe-to-2071398)
+- [Security Magazine](https://www.securitymagazine.com/)
+- [Security Boulevard](https://securityboulevard.com/)
+
 
 ## Stay on top of news by setting up alerts
+
 If there is a certain topic, person, or company, that you’d like to keep your eye on, set up a Google Alert. Google Alerts help you monitor the web for new content by sending an email notification every time a certain word or phrase is indexed in the Google search engine. 
 
 One way you can use Google Alerts is by setting one up for a company that interests you. This way, you’ll stay on top of news. Plus, it can also provide a fodder for follow up emails. Additionally, you can setup an alert for well-known professionals as well as other influencers in your field. 
+
+**Experts you can follow on Twitter:**
+
+ - [Top Cybersecurity Experts to Follow on Twitter](https://whatismyipaddress.com/twitter-cybersecurity-experts)
+ - [Cybersecurity Twitter Accounts You Should be Following](https://www.sentinelone.com/blog/21-cybersecurity-twitter-accounts-you-should-follow/) 
 
 ## Don’t just consume - contribute, too  
 
@@ -69,6 +89,7 @@ More than just telling the person you enjoyed their podcast/article, you can cre
 Ultimately, your goal should be to get interviewed on a podcast, or guest write for a blog. Putting yourself out there in such a way will give yourself more exposure. It can also lead to more connections with like-minded people. And it positions you as an expert on the topic at hand. 
 
 ## Conclusion
+
 When you’re working in a high growth and competitive industry, you need to stay relevant. Your career depends on it. Beyond listening to podcasts, reading blogs, and subscribing to newsletters, your goal is to contribute to the conversation. To do this, you must put yourself out there by reaching out to others and contributing to the dialogue.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/how-to-stay-current-in-the-tech-industry'>How To Stay Current in the Tech Industry</a> on Learn.co and start learning to code for free.</p>
+
