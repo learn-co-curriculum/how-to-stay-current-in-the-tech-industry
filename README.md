@@ -20,8 +20,6 @@ And because podcasts are usually interview-based, they allow you to take a peek 
 
 - [Cyber Security Interviews](https://cybersecurityinterviews.com/) 
 
-- [New Cyber Frontier](https://feed.podbean.com/newcyberfrontier/) 
-
 - [We Live Security](https://www.welivesecurity.com/) 
 
 
@@ -32,13 +30,13 @@ Unlike podcasts where you can listen on the go, reading articles requires your f
 
 - [Digital Guardian](https://digitalguardian.com/) Starting way back in 2013, The official Digital Guardian blog has been a main source of news and articles mainly focusing on data protection and threat research.
 
-- [Graham Cluley](https://www.grahamcluley.com/)Graham Cluley worked as a programmer in the computer security industry in the early 90s and worked for industry leaders in Sophos and McAfee before starting his industry award winning personal blog in 2009.
+- [Graham Cluley](https://www.grahamcluley.com/) Graham Cluley worked as a programmer in the computer security industry in the early 90s and worked for industry leaders in Sophos and McAfee before starting his industry award winning personal blog in 2009.
 
-- [Schneier on Security](https://www.schneier.com/)Featuring the latest cybersecurity news, tech essays, and academic papers, Schneier on Security has attracted over 250,000 readers in its 13-year run.
+- [Schneier on Security](https://www.schneier.com/) Featuring the latest cybersecurity news, tech essays, and academic papers, Schneier on Security has attracted over 250,000 readers in its 13-year run.
 
 - [Daniel Miessler](https://danielmiessler.com/) A tech blog from a renowned security expert, Daniel Miessler’s official blog stands out because of its diversified content.
 
-- [Hacker News](https://thehackernews.com/)With five million monthly viewership and over 3 million social media followers, Hacker News provides daily cybersecurity and technology news, analyzed technical reports and insightful columns for every type of tech enthusiast. 
+- [Hacker News](https://thehackernews.com/) With five million monthly viewership and over 3 million social media followers, Hacker News provides daily cybersecurity and technology news, analyzed technical reports and insightful columns for every type of tech enthusiast. 
 
 - [Krebs on Security](https://krebsonsecurity.com/) A notorious hacker group took over Brian Krebs’ home network while he was trying to set up a firewall in 2001.  This event led to him launching the daily blog Security Fix in 2005.
 
@@ -50,7 +48,7 @@ Unlike podcasts where you can listen on the go, reading articles requires your f
 
 - [GlobalSign](https://www.globalsign.com/en/company/blog/articles/) A bit “cheeky” for sure, but with a 200% growth in traffic and 1570% growth in subscribers, they’re worth following.
 
-Aside from personal blogs, many professionals also publish on [Medium](medium.com), where you you can follow different topic-based publications
+Aside from personal blogs, many professionals also publish on [Medium](https://medium.com), where you you can follow different topic-based publications
 
 ## **Email newsletters**
 
